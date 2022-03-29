@@ -3,7 +3,8 @@
 - link:
     ~/.profile: profile
     ~/.gitconfig: gitconfig
-    ~/.vimrc: vimrc
+    ~/.vimrc: vim/vimrc
+    ~/.vim/colors: vim/colors
     ~/.zprofile: zprofile
     ~/.zshrc: zshrc
 
