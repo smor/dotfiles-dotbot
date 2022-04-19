@@ -1,11 +1,14 @@
 - clean: ['~']
 
+- create:
+    - ~/.vim
+
 - link:
     ~/.profile: profile
     ~/.gitconfig: gitconfig
     ~/.vimrc: vim/vimrc
     ~/.vim/colors: vim/colors
     ~/.zprofile: zprofile
-    ~/.zshrc: zshrc
+    ~/.zshrc: zshrc.antigen
 
 
